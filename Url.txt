@@ -1,2 +1,8 @@
 http://n4wm08.axshare.com
 Passord: tørn123
+
+
+Ved oppstart vises en oppsummering hvem som ble tatt ut og hvem som kom inn (m/sist oppdrag)
+Fjern Sist oppdragskolonnen.
+Ny tabell med PersonID til den som har vinduet åpnet (pr losstasjon)
+Hva med loser som har reservert seg og ALDRI ønsker å bli oppringt på fritiden? Skal vi legge inn en reservasjon under Grunnlagsdata Person (mer det var slik det ble spekket for planleggingssystemet.
